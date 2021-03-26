@@ -1,0 +1,12 @@
+/* * {
+    border: 1px dashed red;
+} */
+body {
+    background-color: black;
+}
+.hero-img {
+    background-image: url("/assets/images/matt-standing.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+   }
