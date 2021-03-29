@@ -1,8 +1,10 @@
 /* * {
     border: 1px dashed red;
 } */
-body {
-    background-color: black;
+
+a:hover {
+    color: yellow;
+    text-decoration: underline;
 }
 .hero-img {
     background-image: url("/assets/images/matt-standing.png");
