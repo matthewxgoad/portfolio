@@ -6,7 +6,4 @@
     background-color: black;
    }
    
-  .portfolio-container .card {
-    margin-bottom: 2em;
-  }
    @import "https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css"
