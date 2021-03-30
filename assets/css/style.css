@@ -1,10 +1,6 @@
 /* Hero background image */
-.hero-img {
-    background-image: url("/assets/images/matt-standing.png") !important;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-color: black;
-    
-   }
-   
+
+.hero {
+    background: black url(./assets/images/matt-standing.png) top / cover;
+}
   
