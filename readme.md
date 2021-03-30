@@ -1,6 +1,6 @@
 # Matt Goad's Portfolio
 
-![Placeholder for image of deployed application](./assets/images/portfolio-deployed-screenshot.png)
+![Placeholder for image of deployed application](/assets/images/portfolio-deployed-screenshot.png)
 
 [link to deployed application](https://matthewxgoad.github.io/portfolio/)
 
